@@ -1,8 +1,8 @@
 <div align="center">
   <img src="banner.svg" alt="Banner" width="100%" style="border-radius: 10px;">
-  <h1 style="margin-top: -130px; margin-bottom: 80px; padding-left:50px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); border-bottom: none; text-decoration: none;">
+  <h3 style="margin-top: -130px; margin-bottom: 80px; padding-left: 50px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); border-bottom: none; text-decoration: none; font-size: 36px;">
     Hey, I'm Q 👋
-  </h1>
+  </h3>
 </div>
 
 <div align="center" style="margin-top: 40px;">
