@@ -1,20 +1,18 @@
-# Hey, I'm Q 👋
+<div style="background-image: url('https://media.licdn.com/dms/image/v2/D4D16AQHm1gHVbLLpJg/profile-displaybackgroundimage-shrink_350_1400/B4DZuPcO6FI8AY-/0/1767638102447?e=1770249600&v=beta&t=Lhw696UWoM4GRNxZXKrgxrznofiJV0zXjsxO-aBzf0Y'); background-size: contain; background-repeat: no-repeat; background-position: center; padding: 80px 20px; border-radius: 10px; min-height: 200px; display: flex; align-items: center; justify-content: center;">
+  <h1 style="color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); margin: 0; border-bottom: none; text-decoration: none;">Hey, I'm Q 👋</h1>
+</div>
 
-<div align="center">
+<div align="center"  >
 
   ![Software](https://img.shields.io/badge/Software-Engineering-blue?style=for-the-badge)
   ![Platform](https://img.shields.io/badge/Platform-Engineering-orange?style=for-the-badge)
   ![AI](https://img.shields.io/badge/AI-Tools-green?style=for-the-badge)
-
 </div>
-
----
 
 ## What I Do
 
 I build software and manage cloud platform 'stuff'. Primarily writing code, cloud infrastructure, orchestration & automation tools that get the job done.
 
----
 
 ## Tech Stack
 
