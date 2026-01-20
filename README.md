@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="banner.svg" alt="Banner" width="100%" style="border-radius: 10px;">
   <h1 style="margin-top: -130px; margin-bottom: 80px; padding-left:50px; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); border-bottom: none; text-decoration: none;">
     Hey, I'm Q 👋
