@@ -14,7 +14,7 @@
 
 ## What I Do
 
-I build software and the platforms that run it. Code, cloud infrastructure, automation, and whatever else gets the job done.
+I build software and the platforms that it runs on. Code, cloud infrastructure, automation, and whatever else gets the job done.
 
 
 ## Tech Stack
